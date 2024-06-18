@@ -19,5 +19,5 @@ c)	Altres funcions:
 d)	Dades SLiM: conté els fitxers de les dades de les simulacions, de la suma de les simulacions de cada condició i dels Bootstrap obtinguts.
 
 e)	RESULTATS:
--	Taules de resultats “daf.results”, “Theta.int.results” i “Theta.stats.results”.
+-	Taules de resultats “daf.results”, “Theta.int.results” i “Theta.stats.results” per a cada condició.
 -	“Plots_MKT_Bootstrap”: arxiu amb tots els plots dels resultats per a cada condició.
