@@ -1,0 +1,3 @@
+SFS	fr1 	fr2 	fr3 	fr4 	fr5 	fr6 	fr7 	fr8 	fr9 	fr10 	fr11 	fr12 	fr13 	fr14 	fr15 	fr16 	fr17 	fr18 	fr19 	fr20 	fr21 	fr22 	fr23 	fr24 	fr25 	fr26 	fr27 	fr28 	fr29 	fr30 	fr31 	fr32 	fr33 	fr34 	fr35 	fr36 	fr37 	fr38 	fr39 	fr40 	fr41 	fr42 	fr43 	fr44 	fr45 	fr46 	fr47 	fr48 	fr49	PosP	Fixed	PosF	FixBen
+nsyn	132	57	34	19	18	8	14	12	11	9	6	8	7	6	5	4	7	5	6	8	7	3	2	8	3	7	9	6	0	5	4	7	9	4	1	3	4	2	5	5	2	4	6	6	2	2	2	1	2	333333	2987	333333	903	
+syn	64	27	21	20	12	15	9	10	6	6	7	4	8	5	1	2	7	4	5	3	6	4	0	3	1	4	2	6	2	2	5	3	2	2	2	3	2	3	1	2	3	2	1	4	3	2	4	5	1	166666	1438	166666	0	
